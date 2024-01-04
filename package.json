@@ -1,10 +1,10 @@
 {
   "name": "character",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/5yhgqkndeca2s6a1?svg=true)](https://ci.appveyor.com/project/SlivaIvan/character)",
   "main": "index.js",
   "scripts": {
-    "live-server": "live-server dist", 
+    "live-server": "live-server index.html",
     "test": "jest",
     "coverage": "jest --coverage",
     "lint": "eslint .",

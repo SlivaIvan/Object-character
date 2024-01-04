@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/5yhgqkndeca2s6a1?svg=true)](https://ci.appveyor.com/project/SlivaIvan/character)
+[![Build status](https://ci.appveyor.com/api/projects/status/3sptwog0piogosvq?svg=true)](https://ci.appveyor.com/project/SlivaIvan/object-character)
